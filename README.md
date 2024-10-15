@@ -1,2 +1,2 @@
 # ncbiRefDown
-perl script for download genomics file from NCBI ftp site
+perl script for download genome file from NCBI ftp site
